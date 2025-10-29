@@ -1,0 +1,7 @@
+{
+  "name": "Speech Analyser",
+  "description": "An AI speech analysis assistant that evaluates your recorded audio for confidence, clarity, and fluency, providing personalized feedback and practical advice to help you improve your public speaking skills.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
